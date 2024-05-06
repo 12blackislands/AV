@@ -248,7 +248,7 @@ font-weight:300;
 .Image_1{
 /*  border: 1px solid red;*/
 /*  height:5em;*/
-  background: url(../img/Image_1.jpg);
+  background: url(../img/Image_1.jpg) no-repeat center center;
   background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -256,7 +256,7 @@ font-weight:300;
     background-position-x: 50%;
     background-position-y: 50%;
 /*    height: 100vh;*/
-height:100vh;
+    height:100vh;
     image-rendering: auto;
     image-rendering: crisp-edges;
     image-rendering: pixelated;
