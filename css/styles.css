@@ -278,6 +278,7 @@ height:50vh;
     margin: auto;
     padding-top: 0.5em;
     font-weight: 600;
+  font-family: ClashDisplay-Medium;
 
 }
 
@@ -290,6 +291,7 @@ height:50vh;
     padding-top: 0.5em;
     text-decoration: underline;
     font-weight: 600;
+  font-family: ClashDisplay-Medium;
 }
 
 
@@ -312,6 +314,7 @@ height:50vh;
     font-weight: 600;
     color: #07160C;
     padding-top: 2em;
+  font-family: ClashDisplay-Medium;
 }
 
 
